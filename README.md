@@ -24,7 +24,7 @@ A modern teacher management system built with PHP and MySQL, featuring a clean i
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Gmajorseven/web-template.git
    cd web-template
    ```
 
